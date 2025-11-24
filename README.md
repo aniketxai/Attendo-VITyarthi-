@@ -93,7 +93,7 @@ Run Instructions:
 
 4. Run the project using the command:
 
-python attendo.py
+python  attendo.py
 
 
 Developer:
