@@ -1,4 +1,4 @@
-# Attendo-(VITyarthi)
+# Attendo(VITyarthi)
 
 Overview:
 
